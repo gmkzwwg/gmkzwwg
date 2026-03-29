@@ -8,4 +8,4 @@
 
 **人生のすべてといってもいい。**
 
-<img src="img/qb.png" align="right" width="95px" hspace="5" vspace="5">
+<img src="img/qb.png" align="right" width="500px" hspace="5" vspace="5">
