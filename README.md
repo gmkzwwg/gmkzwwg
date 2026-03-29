@@ -7,3 +7,5 @@
 **興が乗るか否かというのは私にとって何よりも重要なのだ、**
 
 **人生のすべてといってもいい。**
+
+<img src="img/qb.png" align="right" width="95px" hspace="5" vspace="5">
