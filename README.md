@@ -1,6 +1,6 @@
 <img src="img/qb.png" align="right" width="180px" hspace="5" vspace="5">
 
-**🤷 はー 🤷**
+**🤷‍♀️ はー 🤷‍♀️**
 
 **👀 そんな目で見ないでくれたまえ 👀**
 
