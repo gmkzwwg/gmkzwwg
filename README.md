@@ -1,3 +1,5 @@
+<img src="img/qb.png" align="right" width="300px" hspace="5" vspace="5">
+
 **はー、**
 
 **そんな目で見ないでくれたまえ、**
@@ -8,4 +10,4 @@
 
 **人生のすべてといってもいい。**
 
-<img src="img/qb.png" align="right" width="500px" hspace="5" vspace="5">
+
