@@ -1,4 +1,4 @@
-<img src="img/qb.png" align="right" width="300px" hspace="5" vspace="5">
+<img src="img/qb.png" align="right" width="180px" hspace="5" vspace="5">
 
 **はー、**
 
