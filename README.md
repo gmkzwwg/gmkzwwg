@@ -1,11 +1,1 @@
-<img src="img/qb.png" align="right" width="170px" hspace="5" vspace="5">
-
-**🤷‍♀️ はー 🤷‍♀️**
-
-**👀 そんな目で見ないでくれたまえ 👀**
-
-**☝️ 嘘でも戯言でもなく ☝️**
-
-**✨ 興が乗るか否かというのは私にとって何よりも重要なのだ ✨**
-
-**🍸 人生の全てと言ってもいい 🍸**
+<img src="img/qb.png" align="right" width="100%" hspace="5" vspace="5">
