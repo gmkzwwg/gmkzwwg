@@ -1,1 +1,1 @@
-<img src="img/qb.png" align="right" width="100%" hspace="5" vspace="5">
+<img src="img/qb-ribon.png" align="right" width="100%" hspace="5" vspace="5">
